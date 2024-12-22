@@ -572,7 +572,7 @@ MonoBehaviour:
   clientPtrEvent: 
   syncedValue: 30
   maxValue: 100
-  minValue: 2
+  minValue: 1
   interactable: 1
 --- !u!114 &8550093811731812600
 MonoBehaviour:
