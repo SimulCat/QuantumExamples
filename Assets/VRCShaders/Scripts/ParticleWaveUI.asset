@@ -12,8 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c333ccfdd0cbdbc4ca30cef2dd6e6b9b, type: 3}
   m_Name: ParticleWaveUI
   m_EditorClassIdentifier: 
-  serializedUdonProgramAsset: {fileID: 11400000, guid: bbe384ccf7cde6c469c7b38038b1edf4,
-    type: 2}
+  serializedUdonProgramAsset: {fileID: 11400000, guid: e3e4b7b1bbfc23b45bf7d5f37dcd54ae, type: 2}
   udonAssembly: 
   assemblyError: 
   sourceCsScript: {fileID: 11500000, guid: fa86e8264f2efb847a4a6848d51742fb, type: 3}

@@ -12,8 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c333ccfdd0cbdbc4ca30cef2dd6e6b9b, type: 3}
   m_Name: WavePanelControl
   m_EditorClassIdentifier: 
-  serializedUdonProgramAsset: {fileID: 11400000, guid: d71ef71918db18c42a762a4d5e5c69ed,
-    type: 2}
+  serializedUdonProgramAsset: {fileID: 11400000, guid: beb4d4acef2e3cb488eaeae61ec3d874, type: 2}
   udonAssembly: 
   assemblyError: 
   sourceCsScript: {fileID: 11500000, guid: 3393ab3e63346a14593a28ef4deaec40, type: 3}

@@ -12,8 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c333ccfdd0cbdbc4ca30cef2dd6e6b9b, type: 3}
   m_Name: CrystalDemo
   m_EditorClassIdentifier: 
-  serializedUdonProgramAsset: {fileID: 11400000, guid: 1ca783effc8b5594c82ff4b2a77e7c7b,
-    type: 2}
+  serializedUdonProgramAsset: {fileID: 11400000, guid: 395a1a074fcda634981ba6bb9ad98172, type: 2}
   udonAssembly: 
   assemblyError: 
   sourceCsScript: {fileID: 11500000, guid: b169d5642cb991b408600259f7db9d8c, type: 3}

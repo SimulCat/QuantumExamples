@@ -12,8 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c333ccfdd0cbdbc4ca30cef2dd6e6b9b, type: 3}
   m_Name: CRTWaveDemo
   m_EditorClassIdentifier: 
-  serializedUdonProgramAsset: {fileID: 11400000, guid: 4973475609f75374e8f84253068d8a34,
-    type: 2}
+  serializedUdonProgramAsset: {fileID: 11400000, guid: c1ad3c1ad622eb34386fad9cb6ed4bb1, type: 2}
   udonAssembly: 
   assemblyError: 
   sourceCsScript: {fileID: 11500000, guid: 795d26c97c8622340b3665819dccbd1c, type: 3}
