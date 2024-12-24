@@ -12,8 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c333ccfdd0cbdbc4ca30cef2dd6e6b9b, type: 3}
   m_Name: SyncedTween
   m_EditorClassIdentifier: 
-  serializedUdonProgramAsset: {fileID: 11400000, guid: ab0248538a5e5eb4a9220bef4efcadc2,
-    type: 2}
+  serializedUdonProgramAsset: {fileID: 11400000, guid: 12b8c4bb5e98afb47b407c896930e582, type: 2}
   udonAssembly: 
   assemblyError: 
   sourceCsScript: {fileID: 11500000, guid: 90925fe2296c1654b9ed78585eff40fb, type: 3}

@@ -12,8 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c333ccfdd0cbdbc4ca30cef2dd6e6b9b, type: 3}
   m_Name: UdonSlider
   m_EditorClassIdentifier: 
-  serializedUdonProgramAsset: {fileID: 11400000, guid: 36f91d24eb0e92740a345cee4b62fbf5,
-    type: 2}
+  serializedUdonProgramAsset: {fileID: 11400000, guid: 9cac143fc9b0e20409ab1d412a3896cb, type: 2}
   udonAssembly: 
   assemblyError: 
   sourceCsScript: {fileID: 11500000, guid: fa412dc0e73a76849ad79c183efeaf21, type: 3}

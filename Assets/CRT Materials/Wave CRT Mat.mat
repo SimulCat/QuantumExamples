@@ -96,7 +96,7 @@ Material:
     - _GlossyReflections: 1
     - _HeightScale: 0.002
     - _K: 0.1
-    - _Lambda: 33.389175
+    - _Lambda: 8.800001
     - _LambdaPx: 49.642857
     - _Metallic: 0.942
     - _Mode: 0
