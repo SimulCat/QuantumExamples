@@ -890,7 +890,7 @@ MonoBehaviour:
   m_FallbackScreenDPI: 96
   m_DefaultSpriteDPI: 96
   m_DynamicPixelsPerUnit: 1
-  m_PresetInfoIsWorld: 0
+  m_PresetInfoIsWorld: 1
 --- !u!114 &7094367659863714188
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2442,6 +2442,7 @@ MonoBehaviour:
   - {fileID: 1266436349028078523}
   - {fileID: 4147971187971030847}
   - {fileID: 5979458600991037975}
+  - {fileID: 4224868932105047648}
   localizationClients: []
 --- !u!114 &2859405611587137433
 MonoBehaviour:
@@ -3888,6 +3889,17 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: fa412dc0e73a76849ad79c183efeaf21, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &4224868932105047648 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 2808512597103045057, guid: 67152210af4e35844b40f7edb934df9b, type: 3}
+  m_PrefabInstance: {fileID: 2042497585012139937}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 16f6e034f954ef14bacd2ec6be5b79c7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1001 &2350213541614220542
